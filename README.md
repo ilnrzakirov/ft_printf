@@ -1,5 +1,6 @@
 # ft_printf
-project for 100 points
+
+For detailed information, refer to the **[subject of this project](https://github.com/ilnrzakirov/ft_printf/blob/main/en.subject.pdf)**
 
 <br> • The prototype of ft_printf should be int ft_printf(const char *, ...); </br>
 <br> • You have to recode the libc’s printf function </br>
